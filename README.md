@@ -1,0 +1,29 @@
+# Hola, soy Juan Carlos Romero 👋
+
+Desarrollador .NET en Perú. Construyo sistemas de gestión para empresas: ventas, inventario, caja, facturación y reportes.
+
+## Experiencia
+
+He participado en proyectos **ERP** de los rubros:
+
+- 💰 **Financiero**
+- 🏥 **Salud**
+- 🎓 **Educación**
+
+## Tecnologías
+
+- **Backend:** C# · ASP.NET Core · ASP.NET MVC · Web API · Windows Forms · ADO.NET · Dapper
+- **Bases de datos:** SQL Server · MySQL · procedimientos almacenados
+- **Frontend:** JavaScript · jQuery · Bootstrap · Razor
+- **Integraciones:** facturación electrónica SUNAT
+
+## Proyectos
+
+| Proyecto | Descripción |
+|----------|-------------|
+| **SysTienda.NET** | Punto de venta con inventario, caja y arqueo, clientes y facturación electrónica SUNAT (ASP.NET Core, MySQL). |
+| **GrifosCSharp** | Gestión de grifos: lecturas de contómetros, tarifario, cierre de caja, créditos, inventario y reportes; multiempresa (ASP.NET MVC 5, SQL Server). |
+| **PresupuestosWeb** | Presupuestos de obras de construcción. |
+| **TRL.Horario** | Armado de horarios escolares: aulas, docentes, carga académica y reportes (Windows Forms, .NET 6). |
+
+> Los repositorios son privados. Si quieres verlos, escríbeme y te doy acceso.
