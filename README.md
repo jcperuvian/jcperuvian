@@ -21,7 +21,7 @@ He participado en proyectos **ERP** de los rubros:
 
 | Proyecto | Descripción | Demo |
 |----------|-------------|------|
-| **SysTienda.NET** | Punto de venta con inventario, almacén, caja y arqueo, clientes, CRM y facturación electrónica SUNAT (ASP.NET Core, MySQL). | [Ver demo](https://systienda-demo-5013.azurewebsites.net) |
+| **SysVentas.NET** | Punto de venta con inventario, almacén, caja y arqueo, clientes, CRM y facturación electrónica SUNAT (ASP.NET Core, MySQL). | [Ver demo](https://systienda-demo-5013.azurewebsites.net) |
 | **GrifosCSharp** | Gestión de grifos: lecturas de contómetros, tarifario, cierre de caja, créditos, inventario y reportes; multiempresa (ASP.NET MVC 5, SQL Server). | [Ver demo](https://grifos-auroluz-7131.azurewebsites.net) |
 | **PresupuestosWeb** | Presupuestos de obras de construcción. | [Ver demo](https://cnp-presupuestos-demo-0og3v.azurewebsites.net) |
 | **TRL.Horario** | Armado de horarios escolares: aulas, docentes, carga académica y reportes (Windows Forms, .NET 6). | — |
