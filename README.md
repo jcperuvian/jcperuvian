@@ -1,4 +1,4 @@
-# Hola, soy Juan Carlos Romero 👋
+# Hola, soy Juan Carlos Romero Rodriguez👋
 
 Desarrollador .NET en Perú. Construyo sistemas de gestión para empresas: ventas, inventario, caja, facturación y reportes.
 
