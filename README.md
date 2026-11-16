@@ -13,7 +13,7 @@ He participado en proyectos **ERP** de los rubros:
 ## Tecnologías
 
 - **Backend:** C# · ASP.NET Core · ASP.NET MVC · Web API · Windows Forms · ADO.NET · Dapper
-- **Bases de datos:** SQL Server · MySQL · procedimientos almacenados
+- **Bases de datos:** SQL Server · MySQL · Oracle
 - **Frontend:** JavaScript · jQuery · Bootstrap · Razor
 - **Integraciones:** facturación electrónica SUNAT
 
@@ -21,7 +21,7 @@ He participado en proyectos **ERP** de los rubros:
 
 | Proyecto | Descripción |
 |----------|-------------|
-| **SysTienda.NET** | Punto de venta con inventario, caja y arqueo, clientes y facturación electrónica SUNAT (ASP.NET Core, MySQL). |
+| **SysTienda.NET** | Punto de venta con inventario, almacén, caja y arqueo, clientes, CRM y facturación electrónica SUNAT (ASP.NET Core, MySQL). |
 | **GrifosCSharp** | Gestión de grifos: lecturas de contómetros, tarifario, cierre de caja, créditos, inventario y reportes; multiempresa (ASP.NET MVC 5, SQL Server). |
 | **PresupuestosWeb** | Presupuestos de obras de construcción. |
 | **TRL.Horario** | Armado de horarios escolares: aulas, docentes, carga académica y reportes (Windows Forms, .NET 6). |
